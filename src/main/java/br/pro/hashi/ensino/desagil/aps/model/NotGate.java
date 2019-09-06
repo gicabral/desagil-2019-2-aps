@@ -8,6 +8,7 @@ public class NotGate extends Gate {
         super(1);
 
         nand = new NandGate();
+
     }
 
 
