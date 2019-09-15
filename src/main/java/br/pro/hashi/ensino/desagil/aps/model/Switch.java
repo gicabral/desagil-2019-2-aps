@@ -17,6 +17,7 @@ public class Switch implements SignalEmitter {
 
     @Override
     public boolean read() {
+
         return signal;
     }
 }

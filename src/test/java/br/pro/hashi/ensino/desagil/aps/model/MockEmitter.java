@@ -9,6 +9,7 @@ public class MockEmitter implements SignalEmitter {
 
     @Override
     public boolean read() {
+
         return signal;
     }
 }
